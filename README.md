@@ -6,7 +6,7 @@
 
 👨🏽‍💼 3 years of experience in small to medium sized startups and tech education providers  
 👀 Currently looking for a new role, ideally in tech for good  
-💕 Tech mentor and diversity advocate
+💕 Tech mentor and diversity advocate  
 💪🏽 Building a community and planning events for early career developers, specifically from non traditional backgrounds  
 📖 Exploring the world of machine learning with a potential career shift to data engineering/machine learning in mind
 
