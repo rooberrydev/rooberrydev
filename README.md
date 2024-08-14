@@ -6,6 +6,8 @@
 
 👨🏽‍💼 3 years of experience in small to medium sized startups and tech education providers  
 👀 Currently looking for a new role, ideally in tech for good  
+💕 Tech mentor and diversity advocate
+💪🏽 Building a community and planning events for early career developers, specifically from non traditional backgrounds  
 📖 Exploring the world of machine learning with a potential career shift to data engineering/machine learning in mind
 
 📍 Based in London  
@@ -51,4 +53,4 @@ My first dev role was at a very small (3 developers) startup in the charity sect
 Towards the end of my tenure there, I was assigned to mentor an apprentice developer, and was responsible for their onboarding and overall career progression in the company.  
 Although I learnt a lot by being heavily involved throughout the flow of user research, prototyping, building and user testing the product, over time there was a fuzziness around progression which meant I was building constantly but not so sure about the direction of my technical skills/career, which is what I'm looking to rectify in my next role.
 
-Please do reach out to me if you or anyone in your network are hiring for mid level roles! Looking forward to hearing from all of you💖
+Please do reach out to me if you or anyone in your network are hiring for mid level roles! Looking forward to hearing from you 💖
