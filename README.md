@@ -5,7 +5,8 @@
 
 
 👨🏽‍💼 3 years of experience in small to medium sized startups and tech education providers  
-👀 Currently looking for a new role, ideally in tech for good
+👀 Currently looking for a new role, ideally in tech for good  
+📖 Exploring the world of machine learning with a potential career shift to data engineering/machine learning in mind
 
 📍 Based in London  
 📄 Visa Status - Indefinite Leave to Remain - no work visa needed
