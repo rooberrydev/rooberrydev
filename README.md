@@ -4,7 +4,7 @@
 🦆 Check out my [✨portfolio✨](https://reubengt.github.io)
 
 
-👨🏽‍💼 3 years of experience in small to medium sized startups and a tech education provider
+👨🏽‍💼 3 years of experience in small to medium sized startups and a tech education provider  
 👀 Currently looking for a new role, ideally in tech for good  
 💕 Mentor and diversity advocate  
 💪🏽 Building a community and planning events for early career developers, specifically from non traditional backgrounds  
