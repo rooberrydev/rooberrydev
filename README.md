@@ -15,7 +15,7 @@
 
 🇮🇳 Open to relocating to bangalore if the right opportunity comes up
 
-🎸 Outside of tech I'm a funk guitarist, songwriter and disco/house/dnb music producer
+🎸 Outside of tech I'm a funk guitarist, songwriter and disco/house/dnb/ukg music producer
 
 ## Tech I work with:
 <p>
