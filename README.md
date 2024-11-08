@@ -15,7 +15,7 @@
 
 🇮🇳 Open to relocating to bangalore if the right opportunity comes up
 
-🎸 Outside of tech I'm a funk guitarist, songwriter and disco/house/dnb/ukg music producer
+🎸 Outside of tech I'm a funk guitarist, songwriter and disco/house/dnb/ukg music producer/DJ
 
 ## Tech I work with:
 <p>
@@ -40,7 +40,14 @@
 
 ## About me
 
-I'm looking for a new mid level Frontend/Full Stack dev role, working primarily in React/Node.js/Typescript - key things I'm searching for are the opportunity to upskill quickly under good senior leadership, and a highly collaborative tech team. I'm also not too keen on remote only work as I usually work better when i'm able to brainstorm with other people, vs being siloed behind a screen.   
+I'm looking for a new mid level Frontend/Full Stack dev role (but would love to make a gradual shift to backend work) - I say frontend because that's what I've done most of so far!
+
+Working primarily in React/Node.js/Typescript 
+
+Key things I'm searching for are the opportunity to upskill quickly under good senior leadership, and a highly collaborative tech team. 
+
+I'm also not too keen on remote only work as I usually work better when i'm able to brainstorm with other people, vs being siloed behind a screen.   
+
 Depending on the culture of the team, a hybrid workflow would probably suit me best.
 
 I'm easy on industry, but have a preference for tech for good and especially for anything music-tech related as I am a musician in my free time.
@@ -50,7 +57,9 @@ My last role was primarily frontend work at a childcare and activity bookings pl
 Before that I spent close to a year mentoring junior developers at the founders and coders bootcamp, acting as their course facilitator and overseeing content delivery. This included code reviews and working on updates to the curriculum as needed. This was a fantastic environment to work in and although I wasn't doing that much software development, I was constantly tested on my communication and collaboration skills in a technical context.
 
 My first dev role was at a very small (3 developers) startup in the charity sector, making software for food banks and local charities, helping them digitise their operations - including volunteer management and impact measurement.  
+
 Towards the end of my tenure there, I was assigned to mentor an apprentice developer, and was responsible for their onboarding and overall career progression in the company.  
+
 Although I learnt a lot by being heavily involved throughout the flow of user research, prototyping, building and user testing the product, over time there was a fuzziness around progression which meant I was building constantly but not so sure about the direction of my technical skills/career, which is what I'm looking to rectify in my next role.
 
 Please do reach out to me if you or anyone in your network are hiring for mid level roles! Looking forward to hearing from you 💖
