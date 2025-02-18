@@ -13,8 +13,6 @@
 📍 Based in London  
 📄 Visa Status - Indefinite Leave to Remain - no work visa needed
 
-🇮🇳 Open to relocating to bangalore if the right opportunity comes up
-
 🎸 Outside of tech I'm a funk guitarist, songwriter and disco/house/dnb/ukg music producer/DJ
 
 ## Tech I work with:
