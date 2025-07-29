@@ -1,4 +1,4 @@
-# Hey, I'm Reuben (he/they) 🎸🏳️‍🌈🤘
+# Hey, I'm Reuben/Roo (they/them) 🎸🏳️‍🌈🤘
 
 👋 I'm an ambitious and empathetic fullstack React/Node.js developer  
 🦆 Check out my [✨portfolio✨](https://rooberrydev.github.io)
