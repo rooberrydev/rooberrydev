@@ -1,14 +1,12 @@
 # Hey, I'm Reuben (he/they) 🎸🏳️‍🌈🤘
 
-👋 I'm an ambitious and empathetic mid level fullstack React/Node.js developer  
-🦆 Check out my [✨portfolio✨](https://reubengt.github.io)
+👋 I'm an ambitious and empathetic fullstack React/Node.js developer  
+🦆 Check out my [✨portfolio✨](https://rooberrydev.github.io)
 
 
-👨🏽‍💼 3 years of experience in small to medium sized startups and a tech education provider  
+👨🏽‍💼 2+ years of experience in small to medium sized startups and a tech education provider  
 👀 Currently looking for a new role, ideally in tech for good  
-💕 Mentor and diversity advocate  
-💪🏽 Building a community and planning events for early career developers, specifically from non traditional backgrounds  
-📖 Exploring the world of machine learning with a potential career shift to data engineering/machine learning in mind
+💕 Mentor and diversity advocate    
 
 📍 Based in London  
 📄 Visa Status - Indefinite Leave to Remain - no work visa needed
@@ -38,11 +36,11 @@
 
 ## About me
 
-I'm looking for a new mid level Frontend/Full Stack dev role (but would love to make a gradual shift to backend work) - I say frontend because that's what I've done most of so far!
+I'm looking for a new Frontend/Full Stack dev role (but would love to make a gradual shift to backend work) - I say frontend because that's what I've done most of so far!
 
 Working primarily in React/Node.js/Typescript 
 
-Key things I'm searching for are the opportunity to upskill quickly under good senior leadership, and a highly collaborative tech team. 
+Key things I'm searching for are the opportunity to upskill quickly under good senior leadership, and a highly collaborative workflow between tech and design/user research teams.
 
 I'm also not too keen on remote only work as I usually work better when i'm able to brainstorm with other people, vs being siloed behind a screen.   
 
@@ -60,4 +58,4 @@ Towards the end of my tenure there, I was assigned to mentor an apprentice devel
 
 Although I learnt a lot by being heavily involved throughout the flow of user research, prototyping, building and user testing the product, over time there was a fuzziness around progression which meant I was building constantly but not so sure about the direction of my technical skills/career, which is what I'm looking to rectify in my next role.
 
-Please do reach out to me if you or anyone in your network are hiring for mid level roles! Looking forward to hearing from you 💖
+Please do reach out to me if you or anyone in your network are hiring! Looking forward to hearing from you 💖
